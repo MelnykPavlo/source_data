@@ -2,38 +2,38 @@
   "news": [
     {
       "id": "1",
-      "title": "Заголовок новости 1",
-      "description": "Описание новости 1",
+      "title": "News Title 1",
+      "description": "Description of news 1",
       "image": "https://via.placeholder.com/150x150?text=News+1"
     },
     {
       "id": "2",
-      "title": "Заголовок новости 2",
-      "description": "Описание новости 2",
+      "title": "News Title 2",
+      "description": "Description of news 2",
       "image": "https://via.placeholder.com/150x150?text=News+2"
     },
     {
       "id": "3",
-      "title": "Заголовок новости 3",
-      "description": "Описание новости 3",
+      "title": "News Title 3",
+      "description": "Description of news 3",
       "image": "https://via.placeholder.com/150x150?text=News+3"
     },
     {
       "id": "4",
-      "title": "Заголовок новости 4",
-      "description": "Описание новости 4",
+      "title": "News Title 4",
+      "description": "Description of news 4",
       "image": "https://via.placeholder.com/150x150?text=News+4"
     },
     {
       "id": "5",
-      "title": "Заголовок новости 5",
-      "description": "Описание новости 5",
+      "title": "News Title 5",
+      "description": "Description of news 5",
       "image": "https://via.placeholder.com/150x150?text=News+5"
     },
     {
       "id": "6",
-      "title": "Заголовок новости 6",
-      "description": "Описание новости 6",
+      "title": "News Title 6",
+      "description": "Description of news 6",
       "image": "https://via.placeholder.com/150x150?text=News+6"
     }
   ]
